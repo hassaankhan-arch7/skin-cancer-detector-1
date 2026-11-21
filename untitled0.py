@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1IHu4j9rLIR5eBKIWp_LJpTNsz8uUjQNs
 """
 
-!7z x /content/archive_2.zip -o/content/unzipped_data
-!ls -la /content/unzipped_data
 
 """### Step 1: Exploratory Data Analysis (EDA) & Dataset Visualization
 Let's analyze the extracted directory structure, count the images in each category, and display a pie chart of the dataset distribution.
